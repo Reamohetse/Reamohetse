@@ -1,0 +1,38 @@
+
+.label {
+    -fx-font-size: 12px;
+    -fx-cursor: hand;
+}
+
+.label:hover {
+    -fx-text-fill: #9E9E9E;
+}
+
+#pause1: hover{
+    -fx-text-fill: #008000;
+}
+
+#stop1: hover{
+     -fx-text-fill: #FF0000;
+}
+
+#play1: hover{
+     -fx-text-fill: #0000FF;
+}
+
+.play: hover{
+     -fx-background-color: #0000FF;
+}
+
+.pause: hover{
+     -fx-background-color: #008000;
+}
+
+.stop: hover{
+     -fx-background-color: #FF0000;
+}
+
+
+
+
+
